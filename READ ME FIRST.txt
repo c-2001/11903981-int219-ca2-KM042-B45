@@ -1,0 +1,13 @@
+Hello Mam,
+I am KOLAPARTHI V S S S CHARAN with registration number 11903981 of section-KM042 and my Roll number is B45. As I discussed with you I have choosen the task of roll number 15.
+
+Comming to the project, As per the given task i have made the same layout of the travel agency website with login and signin pages using div and span tags as given the instructions an shown in the picture. Apart from this I have also added Booking, Packages, contact, Blog, Gallery and Review sections as well.
+
+Please Go through the complete website. 
+
+Hope You Liked my work:)
+
+index.html is the home page of my website, You can open this to have a detailed look of my website..!
+
+Thank You Mam!
+
